@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 # My name is Adithya A S
-I'm currently pursuing my 3rd year of Btech in PES university, India
+I am a senior in PES university, India with major in Computer Science
 <br>
 <a href="https://youtu.be/QOTsrYJI5sU" title="Not Bored"><img img align="left"  src="NB.jpeg" width="150px"/></a>
 I created Not Bored for people looking for a variety of ways to connect with their friends.
