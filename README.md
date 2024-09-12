@@ -5,7 +5,7 @@ I am a graduate student from Northeastern University, Boston with major in Compu
 <a href="https://youtu.be/QOTsrYJI5sU" title="Not Bored"><img img align="left"  src="NB.jpeg" width="150px"/></a>
 I created Not Bored for people looking for a variety of ways to connect with their friends.
 This app not only provides a chat room for texting, but allows you to generate meet up requests which are anonymous, helping you connect with your friends in a much simpler and fascinating way.
-<a href="https://play.google.com/store/apps/details?id=com.argia.not_bored" title="Not Bored">Not Bored</a>
+<a href="https://www.youtube.com/watch?v=QOTsrYJI5sU" title="Not Bored">Not Bored</a>
  <br>
 <br>
 <br>
